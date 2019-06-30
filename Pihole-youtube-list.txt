@@ -126,5 +126,6 @@
 0.0.0.0 r1---sn-a5msen7s.googlevideo.com
 0.0.0.0 r6---sn-a5meknl7.googlevideo.com
 0.0.0.0 r4---sn-a5mekner.googlevideo.com
+0.0.0.0 pagead2.googlesyndication.com
 
 
