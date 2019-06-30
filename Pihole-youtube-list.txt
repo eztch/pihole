@@ -129,6 +129,10 @@
 0.0.0.0 r2---sn-f5f7ln7y.googlevideo.com
 0.0.0.0 r3---sn-a5meknek.googlevideo.com
 0.0.0.0 r3---sn-a5msen7z.googlevideo.com
+0.0.0.0 r4---sn-9gv7ened.googlevideo.com
+0.0.0.0 r2---sn-a5mlrnel.googlevideo.com
+0.0.0.0 r3---sn-a5msen7l.googlevideo.com
+0.0.0.0 r3---sn-a5mekned.googlevideo.com
 
 
 
