@@ -1,11 +1,15 @@
-### Youtube Ad-Block-List for PiHole 
 
+### Youtube Ad-Block-List for PiHole 
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 charter-analytics.smithmicro.com
+0.0.0.0 spectrum.s3.amazonaws.com
+0.0.0.0 splunk.spectrum.net
+0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 r1---sn-5uaeznzk.googlevideo.com
 0.0.0.0 r1---sn-a5m7lnlz.googlevideo.com
 0.0.0.0 r1---sn-a5meknel.googlevideo.com
