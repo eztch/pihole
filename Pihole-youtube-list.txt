@@ -158,6 +158,17 @@
 0.0.0.0 r1---sn-hp57kns7.googlevideo.com
 0.0.0.0 r1---sn-hp57ynel.googlevideo.com
 0.0.0.0 r6---sn-hp57knse.googlevideo.com
-
+0.0.0.0 kube-nimbus-1671728955.us-east-1.elb.amazonaws.com
+0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
+0.0.0.0 kube-nimbus-471965604.us-west-2.elb.amazonaws.com
+0.0.0.0 d3jdtixm7cvu7y.cloudfront.net
+0.0.0.0 elb-nvi-amz.nimbus.bitdefender.net
+0.0.0.0 elb-ore-amz.nimbus.bitdefender.net
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 spectrum.s3.amazonaws.com
+0.0.0.0 kube-nimbus-1399884016.eu-west-1.elb.amazonaws.com
+0.0.0.0 kube-nimbus-1314339100.eu-central-1.elb.amazonaws.com
+0.0.0.0 kube-nimbus-1822964958.ap-northeast-1.elb.amazonaws.com
+0.0.0.0 d3cv4a9a9wh0bt.cloudfront.net
 
 
